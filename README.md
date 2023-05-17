@@ -1,4 +1,4 @@
-# Classification of COVID-19, and Viral Pneumonia Chest X-ray Images.
+# Classification of COVID-19, and Viral Pneumonia Chest X-ray Images
 
 
 ## Introduction
